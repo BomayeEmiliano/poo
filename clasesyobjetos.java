@@ -4,4 +4,12 @@ public class clasesyobjetos {
     public clasesyobjetos(){
 
     }
+
+    public void carro(){
+
+    }
+
+    public void hommbre(){
+        
+    }
 }
